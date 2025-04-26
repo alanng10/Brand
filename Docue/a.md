@@ -47,3 +47,5 @@ Brand has park kind arch benefit.
 Brand has park kind arch marry.
 
 Brand has park kind arch land.
+
+Brand has major.
