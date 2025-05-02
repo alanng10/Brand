@@ -54,4 +54,6 @@ Brand has park cross.
 
 Brand has park name.
 
+Brand has park count.
+
 Brand has major.
