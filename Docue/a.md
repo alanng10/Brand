@@ -59,3 +59,11 @@ Brand has park name.
 Brand has park count.
 
 Brand has major.
+
+Brand has major on cross.
+
+Brand has major on one.
+
+Brand has major on ident.
+
+Brand has major on stat.
