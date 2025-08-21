@@ -62,7 +62,7 @@ Brand has major.
 
 Brand has major on cross.
 
-Brand has major on one.
+Brand has major on single.
 
 Brand has major on ident.
 
