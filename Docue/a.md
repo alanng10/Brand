@@ -67,3 +67,5 @@ Brand has major on single.
 Brand has major on ident.
 
 Brand has major on stat.
+
+Brand has major on gain.
