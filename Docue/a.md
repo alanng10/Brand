@@ -71,3 +71,5 @@ Brand has major on stat.
 Brand has major on gain.
 
 Brand has major on count.
+
+Brand has major on legal.
